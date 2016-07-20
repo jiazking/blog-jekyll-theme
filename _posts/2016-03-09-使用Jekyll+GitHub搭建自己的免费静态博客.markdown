@@ -14,7 +14,7 @@ tags:
 
 [Jekyll](http://jekyllrb.com/)是一个简单的，针对博客设计的静态网站生成器。使用 GitHub 和 Jekyll，我们可以打造自己的独立博客，你可以自由地定制网站的风格，并且这 一切都是免费的。
 
-我在GitHub上建立的[博客](http://francissoung.github.io "Francis Soung")及[源代码](https://github.com/FrancisSoung/francissoung.github.io "Francis Soung")，可供大家fork.
+我在GitHub上建立的[博客](http://francissoung.github.io "Francis Soung")及[源代码](https://github.com/FrancisSoung/blog-jekyll-theme/ "Francis Soung")，可供大家fork.
 
 感谢[Hux](http://huangxuan.me/)带来这么漂亮的模板.也向对此模板做出贡献的Developer表示感谢.
 

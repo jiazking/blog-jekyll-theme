@@ -7,6 +7,7 @@ description: "这是一个程序员的日记薄，记录工作与生活的点点
 keyword: "WEB程序开发,Linux服务器管理,LAMP/LNMP环境配置优化,网络架构,MySQL优化,生活旅行,Francis,francissoung,php程序猿的笔记,程序员的日记薄"
 url: "http://www.francissoung.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+destination: ../francissoung.github.io_online
 
 
 
@@ -96,6 +97,9 @@ friends: [
     {
         title: "马力全开",
         href: "http://blog.maryopen.com/"
+    },{
+        title: "宇过天勤",
+        href: "http://lfyqzhang.com/"
     },{
         title: "航哥",
         href: "http://www.april2nd.me/"
