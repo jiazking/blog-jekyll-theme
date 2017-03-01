@@ -1,13 +1,13 @@
 # Site settings
-title: Francis Soung
-SEOTitle: Francis Soung
+title: St.thomas.j
+SEOTitle: St.thomas.j
 header-img: img/home-bg.jpg
-email: francissoung@126.com
-description: "这是一个程序员的日记薄，记录工作与生活的点点滴滴。包括WEB程序开发、Linux服务器管理、LAMP/LNMP环境配置优化、PHP网络技术、MySQL优化等技术分享以及个人生活旅行中的所见所闻所解。"
-keyword: "WEB程序开发,Linux服务器管理,LAMP/LNMP环境配置优化,网络架构,MySQL优化,生活旅行,Francis,francissoung,php程序猿的笔记,程序员的日记薄"
-url: "http://www.francissoung.com"              # your host, for absolute URL
+email: st_thomas@163.com
+description: "文章日志,学习生活"
+keyword: "PHP C MYSQL"
+url: "http://www.sjiaina.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-destination: ../francissoung.github.io_online
+destination: ../jiazking.github.io #生成静态的文件目录
 
 
 
@@ -16,7 +16,7 @@ RSS: false
 weibo_username:     523072343
 zhihu_username:     Franciskeke
 segmentfault_username: francissoung
-github_username:    FrancisSoung
+github_username:    jiazking
 twitter_username:  Francis_Soung
 facebook_username:  francis.soung
 
@@ -78,10 +78,10 @@ ba_track_id: 551c451674b914ab3e454205afd429a8
 
 
 
-# Sidebar settings
+# Sidebar settings #侧边栏
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "爱好旅行，摄影和运动，更热爱我现在的coding。世界那么大，我想去看看。"
-sidebar-avatar: /img/avatar-francis.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "知遇的,未涉的,都是我的,疲劳过后的意志,才是你奔跑不会倒下的理由。生活依旧疯魔。"
+sidebar-avatar: /img/avatar_st.thomas.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -95,22 +95,22 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "马力全开",
-        href: "http://blog.maryopen.com/"
-    },{
-        title: "宇过天勤",
-        href: "http://lfyqzhang.com/"
-    },{
-        title: "航哥",
-        href: "http://www.april2nd.me/"
-    },{
-        title: "鹏哥",
-        href: "http://blog.ichuck.net/"
-    },{
-        title: "望望",
-        href: "http://www.shmilyx.net/"
-    },{
-        title: "好一网",
-        href: "http://www.51hsw.com/"
+    #     title: "马力全开",
+    #     href: "http://blog.maryopen.com/"
+    # },{
+    #     title: "宇过天勤",
+    #     href: "http://lfyqzhang.com/"
+    # },{
+    #     title: "航哥",
+    #     href: "http://www.april2nd.me/"
+    # },{
+    #     title: "鹏哥",
+    #     href: "http://blog.ichuck.net/"
+    # },{
+    #     title: "望望",
+    #     href: "http://www.shmilyx.net/"
+    # },{
+    #     title: "好一网",
+    #     href: "http://www.51hsw.com/"
     }
 ]
